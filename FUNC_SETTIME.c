@@ -4,7 +4,7 @@ void set_program(void)
          lcd_putc("PRG     ");
           lcd_gotoxy(1,0);lcd_putc("        ");
 
-                    //=====================show pre value==============
+                    //=====================show pre value=====================================
                       hex_bcd(cmd_MIN);
                       lcd_gotoxy(5,0);
                       lcd_putc(num[a]);
