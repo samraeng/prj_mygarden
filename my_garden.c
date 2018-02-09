@@ -1,3 +1,5 @@
+//my project designed for time control take care my garden
+
 #include <18F4431.h>
 #device adc=8
 
